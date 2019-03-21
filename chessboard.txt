@@ -1,0 +1,10 @@
+.abcdefgh.
+8rnbqkbnr8
+7pppp.ppp7
+6........6
+5....p...5
+4........4
+3.....P..3
+2PPPPP.PP2
+1RNBQKBNR1
+.abcdefgh.
